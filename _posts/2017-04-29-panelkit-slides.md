@@ -1,6 +1,7 @@
 ---
 title: "Slides - Introducing PanelKit"
 author: Steven Vandeweghe
+date: 2017-04-29 17:58:00
 excerpt: "Slides - Introducing PanelKit"
 layout: post
 permalink: /2017/04/panelkit-slides/
