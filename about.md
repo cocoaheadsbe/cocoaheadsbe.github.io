@@ -7,7 +7,7 @@ layout: page
 
 <!-- ## What is CocoaHeads? -->
 
-[CocoaHeads](http://www.cocoaheads.org) is a group devoted to discussion of Apple's Cocoa and Cocoa Touch Frameworks for programming on MacOS X and iOS. During monthly meetings, members present on their projects and offer tutorials on various programming topics.
+[CocoaHeads](http://www.cocoaheads.org) is a group devoted to discussion of Apple's frameworks and tools for programming on macOS, iOS, watchOS and tvOS. During our meetings, members present on their projects and offer tutorials on various programming topics.
 
 ## History
 
@@ -16,4 +16,4 @@ CocoaHeads Belgium is the first and only (as far as we know) chapter of CocoaHea
 
 ## Registration
 
-The meeting is free for everyone interested in iOS and OS X development. We kindly ask you to register for the event on the Eventbrite page because spaces are usually limited.
+The meeting is free for everyone interested in developing for Apple's platforms. We kindly ask you to register for the events on the Eventbrite page because spaces are usually limited. See you soon!
