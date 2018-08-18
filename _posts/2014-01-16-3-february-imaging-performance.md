@@ -5,7 +5,7 @@ excerpt: 'Raphael Sebbe from Creaceed will have a talk about performance conside
 layout: post
 permalink: /2014/01/3-february-imaging-performance/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

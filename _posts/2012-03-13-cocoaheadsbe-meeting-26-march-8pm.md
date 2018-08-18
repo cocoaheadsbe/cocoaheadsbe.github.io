@@ -5,7 +5,7 @@ excerpt: 'The topic of this meeting will be iOS design case study: from concept 
 layout: post
 permalink: /2012/03/cocoaheadsbe-meeting-26-march-8pm/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/02/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/02/100cocoaheads-logo-web.png
 categories:
   - Information
 tags:

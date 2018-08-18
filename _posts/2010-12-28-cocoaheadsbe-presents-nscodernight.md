@@ -5,7 +5,7 @@ excerpt: It has been mentioned a few times on previous Cocoaheads Belgium Meetin
 layout: post
 permalink: /2010/12/cocoaheadsbe-presents-nscodernight/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

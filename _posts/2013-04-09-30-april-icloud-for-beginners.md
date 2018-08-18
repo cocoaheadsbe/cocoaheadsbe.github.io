@@ -5,10 +5,10 @@ excerpt: Steven Vandeweghe (Blue Crowbar) will share some experiences of how he 
 layout: post
 permalink: /2013/04/30-april-icloud-for-beginners/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

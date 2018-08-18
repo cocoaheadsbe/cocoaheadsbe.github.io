@@ -5,7 +5,7 @@ excerpt: "Since everyone is back from WWDC it's time to hold another Cocoaheads 
 layout: post
 permalink: /2011/06/cocoaheads-belgium-june-2011-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 ---

@@ -5,7 +5,7 @@ excerpt: We have two presentations this month, something general and something t
 layout: post
 permalink: /2012/08/24-september-mobile-ux-coredata/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

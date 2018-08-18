@@ -4,7 +4,7 @@ author: Jelle De Laender
 layout: post
 permalink: /2012/11/4-december-informal-meeting-nsbooze/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

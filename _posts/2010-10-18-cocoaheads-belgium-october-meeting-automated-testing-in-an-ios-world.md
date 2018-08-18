@@ -5,8 +5,8 @@ excerpt: "Its been a while since we had our last meeting, but we're getting read
 layout: post
 permalink: /2010/10/cocoaheads-belgium-october-meeting-automated-testing-in-an-ios-world/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 ---

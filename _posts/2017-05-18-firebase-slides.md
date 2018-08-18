@@ -6,7 +6,7 @@ excerpt: Slides from the Firebase talk.
 layout: post
 permalink: /2017/05/firebase-slides/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Slides
 ---

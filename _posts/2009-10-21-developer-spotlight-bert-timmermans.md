@@ -5,7 +5,7 @@ excerpt: 'The goal of the Developer Spotlight series is, just as the title says,
 layout: post
 permalink: /2009/10/developer-spotlight-bert-timmermans/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Large-logo.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Large-logo.png
 categories:
   - Developer Spotlight
 tags:
@@ -33,7 +33,7 @@ I have to say this is not a perfect solution because the performance is not the 
 #### What is your application ?
 
 <div id="attachment_153" style="width: 160px" class="wp-caption alignright">
-  <img class="size-thumbnail wp-image-153" title="Keypoint Screenshot 1" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-1-150x150.jpg" alt="Main Menu" width="150" height="150" />
+  <img class="size-thumbnail wp-image-153" title="Keypoint Screenshot 1" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-1-150x150.jpg" alt="Main Menu" width="150" height="150" />
   
   <p class="wp-caption-text">
     Main Menu
@@ -47,7 +47,7 @@ Keypoint is the perfect tool to quickly create fast presentations on the go. You
 #### What problems does it solve ?
 
 <div id="attachment_159" style="width: 160px" class="wp-caption alignright">
-  <img class="size-thumbnail wp-image-159" title="Keypoint Screenshot 2" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-2-150x150.jpg" alt="Add Presentation" width="150" height="150" />
+  <img class="size-thumbnail wp-image-159" title="Keypoint Screenshot 2" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-2-150x150.jpg" alt="Add Presentation" width="150" height="150" />
   
   <p class="wp-caption-text">
     Add Presentation
@@ -75,7 +75,7 @@ Like I already mentioned Keypoint was build using Phonegap. So the technology be
 The goal of the interfaces was to make it as easy as possible to create your presentations. You will notice that app and interface evolved through the beta and final release. (see images)
 
 <div id="attachment_163" style="width: 160px" class="wp-caption alignright">
-  <img class="size-thumbnail wp-image-163" title="Keypoint Screenshot 6" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-6-150x150.jpg" alt="Export" width="150" height="150" />
+  <img class="size-thumbnail wp-image-163" title="Keypoint Screenshot 6" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-6-150x150.jpg" alt="Export" width="150" height="150" />
   
   <p class="wp-caption-text">
     Export
@@ -95,7 +95,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
 <div id='gallery-1' class='gallery galleryid-125 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-1/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-1-150x150.png" class="attachment-thumbnail" alt="UI in the first Beta" aria-describedby="gallery-1-138" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-1/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-1-150x150.png" class="attachment-thumbnail" alt="UI in the first Beta" aria-describedby="gallery-1-138" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-138'>
@@ -105,7 +105,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-2/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-2-150x150.png" class="attachment-thumbnail" alt="UI in the Second Beta" aria-describedby="gallery-1-139" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-2/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-2-150x150.png" class="attachment-thumbnail" alt="UI in the Second Beta" aria-describedby="gallery-1-139" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-139'>
@@ -115,7 +115,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-3/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-3-150x150.png" class="attachment-thumbnail" alt="UI in the Third Beta" aria-describedby="gallery-1-140" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-3/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-3-150x150.png" class="attachment-thumbnail" alt="UI in the Third Beta" aria-describedby="gallery-1-140" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-140'>
@@ -127,7 +127,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-4-never-made-it/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-4-never-made-it-150x150.png" class="attachment-thumbnail" alt="UI in the Fourth Beta (Never Made it)" aria-describedby="gallery-1-141" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/evolution-beta-4-never-made-it/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/evolution-Beta-4-never-made-it-150x150.png" class="attachment-thumbnail" alt="UI in the Fourth Beta (Never Made it)" aria-describedby="gallery-1-141" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-141'>
@@ -137,7 +137,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-1/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-1-150x150.jpg" class="attachment-thumbnail" alt="Main Menu" aria-describedby="gallery-1-153" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-1/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-1-150x150.jpg" class="attachment-thumbnail" alt="Main Menu" aria-describedby="gallery-1-153" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-153'>
@@ -147,7 +147,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-2/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-2-150x150.jpg" class="attachment-thumbnail" alt="Add Presentation" aria-describedby="gallery-1-159" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-2/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-2-150x150.jpg" class="attachment-thumbnail" alt="Add Presentation" aria-describedby="gallery-1-159" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-159'>
@@ -159,7 +159,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-3/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-3-150x150.jpg" class="attachment-thumbnail" alt="Add Slide" aria-describedby="gallery-1-161" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-3/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-3-150x150.jpg" class="attachment-thumbnail" alt="Add Slide" aria-describedby="gallery-1-161" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-161'>
@@ -169,7 +169,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-4/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-4-150x150.jpg" class="attachment-thumbnail" alt="Slide List" aria-describedby="gallery-1-162" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-4/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-4-150x150.jpg" class="attachment-thumbnail" alt="Slide List" aria-describedby="gallery-1-162" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-162'>
@@ -179,7 +179,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-5/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-5-150x150.jpg" class="attachment-thumbnail" alt="Social Media" aria-describedby="gallery-1-151" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-5/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-5-150x150.jpg" class="attachment-thumbnail" alt="Social Media" aria-describedby="gallery-1-151" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-151'>
@@ -191,7 +191,7 @@ You can find more info at <http://www.keypointapp.com>, and the application is a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-6/'><img width="150" height="150" src="http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-6-150x150.jpg" class="attachment-thumbnail" alt="Export" aria-describedby="gallery-1-163" /></a>
+      <a href='https://cocoaheads.be/wordpress/2009/10/developer-spotlight-bert-timmermans/screenshot-6/'><img width="150" height="150" src="https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/Screenshot-6-150x150.jpg" class="attachment-thumbnail" alt="Export" aria-describedby="gallery-1-163" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-1-163'>

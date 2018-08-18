@@ -5,7 +5,7 @@ excerpt: Create talkative apps and bring a smiling voice to your interface!
 layout: post
 permalink: /2010/06/webinar-invitation-by-acapela/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/06/logo_acapela_125.jpg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/06/logo_acapela_125.jpg
 categories:
   - Information
 tags:

@@ -7,7 +7,7 @@ excerpt: |
 layout: post
 permalink: /2009/11/cocoaheads-belgium-november-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

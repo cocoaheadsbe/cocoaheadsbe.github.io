@@ -5,7 +5,7 @@ excerpt: The last few weeks, I have been reading a new iPhone Programming relate
 layout: post
 permalink: /2010/08/iphone-programming-the-big-nerd-ranch-guide/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/08/iPhoneProgramming_BNR_Book.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/08/iPhoneProgramming_BNR_Book.png
 categories:
   - Book Reviews
   - Reviews
@@ -50,7 +50,7 @@ All in all, a fantastic book for beginners and those of you who already did some
 Just so you guys know &#8230; The links to the Amazon books in this article are Affiliate Links, meaning if you would buy the book by clicking on this link, a small percentage of the purchase prices will flow back to the Belgian Cocoaheads community.
 
  [1]: http://www.amazon.com/gp/product/0321503619?ie=UTF8&tag=cocoahbelgiu-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503619
- [2]: http://cocoaheads.be/wordpress/2009/11/cocoa-programming-for-mac-os-x-by-aaron-hillegass/
+ [2]: https://cocoaheads.be/wordpress/2009/11/cocoa-programming-for-mac-os-x-by-aaron-hillegass/
  [3]: http://www.bignerdranch.com/instructors/hillegass_aaron
  [4]: http://www.nsconference.com/
  [5]: http://www.bignerdranch.com/

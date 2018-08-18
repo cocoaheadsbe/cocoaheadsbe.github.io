@@ -5,7 +5,7 @@ excerpt: "Well, as you all might know by now, I'm trying to take my first steps 
 layout: post
 permalink: /2010/12/making-you-code-easier-to-maintain-using-objective-c-categories/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Logo_Without_Name.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Logo_Without_Name.png
 categories:
   - Information
   - Resources
@@ -47,7 +47,7 @@ This was all working out quite nicely &#8230;
 ### Using the same color scheme in other Views
 
 <div id="attachment_496" style="width: 210px" class="wp-caption alignright">
-  <a href="http://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Input_ColorScheme.png"><img src="http://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Input_ColorScheme-200x300.png" alt="Data Entry View with ColorScheme" title="Data Entry View with ColorScheme" width="200" height="300" class="size-medium wp-image-496" /></a>
+  <a href="https://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Input_ColorScheme.png"><img src="https://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Input_ColorScheme-200x300.png" alt="Data Entry View with ColorScheme" title="Data Entry View with ColorScheme" width="200" height="300" class="size-medium wp-image-496" /></a>
   
   <p class="wp-caption-text">
     Data Entry View with ColorScheme
@@ -153,6 +153,6 @@ Once I found the advantages of this approach, I even added more methods to my UI
 
 ### Feedback
 
-As with my previous post, there might be better ways to achieve the same thing. If you have a more appropriate approach or solution, feel free to let me know &#8230; I&#8217;m eager to learn <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+As with my previous post, there might be better ways to achieve the same thing. If you have a more appropriate approach or solution, feel free to let me know &#8230; I&#8217;m eager to learn <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
  [1]: http://bit.ly/dFX9EK

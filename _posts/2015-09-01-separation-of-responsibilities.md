@@ -5,7 +5,7 @@ excerpt: Warren Gavin will talk about using separation by behaviour to reduce vi
 layout: post
 permalink: /2015/09/separation-of-responsibilities/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Meeting
 ---

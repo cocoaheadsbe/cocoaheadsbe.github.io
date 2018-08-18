@@ -7,7 +7,7 @@ excerpt: |
 layout: post
 permalink: /2009/11/cocoaheads-belgium-november-meeting-notes-and-video/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:
@@ -36,7 +36,7 @@ This month we had a very interesting session about the CLang Static Analyzer by 
 
 Before the session started I gave a little Status Update on things we have already done since the last meeting. 
 
-The [Google Group for CocoaHeadsBE][3] is still available, but we need some action in it <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Feel free to use the Google Group and post things in it if you want !
+The [Google Group for CocoaHeadsBE][3] is still available, but we need some action in it <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Feel free to use the Google Group and post things in it if you want !
 
 We also created a [CocoaHeadsBE group on LinkedIn][4]. We&#8217;re not quite sure what we will do with it, but for those of you who have an account on LinkedIn, make sure you join the group as well. It could be used in the future to post job openings and get in touch with each other on a professional level.
 
@@ -60,7 +60,7 @@ The video is pretty descent, though it might be a bit hard to see the actual scr
 
 People have asked if it was possible to put an iPod version online. Well, that&#8217;s actually possible and I could even create an AppleTV (HD 720p) version. The only thing is, bandwidth isn&#8217;t cheap. The current version of the video is about 120 Mb in size, and if 10 people start to download it, that would generate 1 Gb in traffic. If others discover the video the bandwidth might increase pretty fast.
 
-So, YES, I could provide an iPod / iPhone version and even a High Definition version for the AppleTV, but that would come at a cost. If enough people are interested in that, I might have a look at what it would cost and could setup a system where you could buy the actual video. For now if you can live with the video on Vimeo, well, it&#8217;s feee &#8230; <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+So, YES, I could provide an iPod / iPhone version and even a High Definition version for the AppleTV, but that would come at a cost. If enough people are interested in that, I might have a look at what it would cost and could setup a system where you could buy the actual video. For now if you can live with the video on Vimeo, well, it&#8217;s feee &#8230; <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 If you want us to keep video taping the sessions, please let me know. And if you have any suggestions on how to make the video even better, feel free to talk to me as well.
 
@@ -92,7 +92,7 @@ Stefaan
  [2]: http://iphone.ecomposite.fr/en/
  [3]: http://groups.google.com/group/cocoaheadsbe
  [4]: http://www.linkedin.com/groups?gid=2342382&trk=hb_side_g
- [5]: http://cocoaheads.be/wordpress/2009/11/get-better-code-with-the-clang-static-analyzer/
+ [5]: https://cocoaheads.be/wordpress/2009/11/get-better-code-with-the-clang-static-analyzer/
  [6]: http://vimeo.com/7848544
  [7]: http://vimeo.com/user723165
  [8]: http://vimeo.com

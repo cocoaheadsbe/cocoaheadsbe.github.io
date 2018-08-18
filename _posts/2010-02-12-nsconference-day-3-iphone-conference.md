@@ -5,7 +5,7 @@ excerpt: 'Well, after a brief night it was time for the last day of NSConference
 layout: post
 permalink: /2010/02/nsconference-day-3-iphone-conference/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference-180.jpg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference-180.jpg
 categories:
   - Information
 tags:

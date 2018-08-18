@@ -5,7 +5,7 @@ excerpt: 'A date (28 Oct) has been set for the October meeting which will take p
 layout: post
 permalink: /2009/10/cocoaheads-belgium-october-meeting-schedule/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

@@ -5,7 +5,7 @@ excerpt: 'The July meeting was filled with information on WWDC and quite a few s
 layout: post
 permalink: /2010/07/nscoder-night-nsbbq/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:
@@ -74,7 +74,7 @@ If you have any feedback on the topics mentioned or have any other suggestions a
 
 As of yet, the date is undecided. If we keep our schedule, the next meeting would be on the 26th of July, but that will probably be during most people&#8217;s summer holidays. Personally I&#8217;m out of the country during the last 2 weeks of July, but that doesn&#8217;t mean you guys can&#8217;t have a meeting without me.
 
-Some people suggested we should skip July and jump straight forward to August. Who knows, we might be able to organize our NSBBQ during the summer holidays for those of you eager to see me before the end of august <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Some people suggested we should skip July and jump straight forward to August. Who knows, we might be able to organize our NSBBQ during the summer holidays for those of you eager to see me before the end of august <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 #### Final Note
 

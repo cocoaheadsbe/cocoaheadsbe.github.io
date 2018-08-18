@@ -5,7 +5,7 @@ excerpt: Presentation made on monday, november 23 about the CLang static analyze
 layout: post
 permalink: /2009/11/get-better-code-with-the-clang-static-analyzer/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/11/CLang_Pres.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/11/CLang_Pres.png
 categories:
   - Information
   - Resources
@@ -25,5 +25,5 @@ I am working on version 2.0 and am looking for some testers who would commit to 
 
 What else? Hopefully Stefaan will be able to put online the video he succeeded to record.
 
- [1]: http://cocoaheads.be/wordpress/wp-content/uploads/2009/11/Clang_en.key_.zip
+ [1]: https://cocoaheads.be/wordpress/wp-content/uploads/2009/11/Clang_en.key_.zip
  [2]: http://321run.com

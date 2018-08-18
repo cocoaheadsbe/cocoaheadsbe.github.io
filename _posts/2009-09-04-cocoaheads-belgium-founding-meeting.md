@@ -5,7 +5,7 @@ excerpt: It took us a while, but we finally have a Date and Location for the Coc
 layout: post
 permalink: /2009/09/cocoaheads-belgium-founding-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

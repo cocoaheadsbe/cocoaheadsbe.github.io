@@ -5,7 +5,7 @@ excerpt: "First of all, I would like to thank all attendees for showing up.  We 
 layout: post
 permalink: /2009/09/cocoaheads-belgium-founding-meeting-notes/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:
@@ -63,7 +63,7 @@ I have to agree with most of the attendees when they mentioned that it might be 
   * Who pays for catering / drinks / food on the next CocoaHeads Belgium meeting ? Well if we can find sponsors, that would be great. But if we can&#8217;t why not just bring our own drinks / snacks along ?
   * What about sessions in other locations ? Well, if we can find a venue in Brussels for example, we could hold sessions there as well. The people of IBBT in Ghent have been so kind to let us use their offices, and they have told us they would be happy to do it again. Meanwhile they questions has also been raised to someone at Apple (yes indeed, we had someone from Apple Belgium in the audience), and he is willing to check if we could use their venue in Brussels !!! Woooohooo :=)
   * When will the next meeting take place ? Well we had a little vote and most of the audience was find with mondays, but we will set up a doodle thingie in order to let everyone vote. If we could do it the second week of the month, that would be great. If we need 2 meetings in the future, we could alwasy do one for novices and one for experts ?
-  * Who is CocoaHeads Belgium ? Well, it not me, it&#8217;s not IBBT, it&#8217;s US. If we need a spokesman to the outside world, I&#8217;m willing to do that of course. CocoaHeads Belgium isn&#8217;t supposed to be my &#8216;personal project&#8217;, but a &#8216;Community Project&#8217;, I just happened to be the guy who put it in motion <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  * Who is CocoaHeads Belgium ? Well, it not me, it&#8217;s not IBBT, it&#8217;s US. If we need a spokesman to the outside world, I&#8217;m willing to do that of course. CocoaHeads Belgium isn&#8217;t supposed to be my &#8216;personal project&#8217;, but a &#8216;Community Project&#8217;, I just happened to be the guy who put it in motion <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 ##### Ideas for Presentations :
 

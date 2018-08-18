@@ -5,7 +5,7 @@ excerpt: 'First of all, I would like to thank all attendees for showing up and I
 layout: post
 permalink: /2009/11/cocoaheads-belgium-october-meeting-notes/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

@@ -5,7 +5,7 @@ excerpt: 'The first meeting of 2010 meeting will take place in Gent on monday th
 layout: post
 permalink: /2010/01/cocoaheads-belgium-january-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

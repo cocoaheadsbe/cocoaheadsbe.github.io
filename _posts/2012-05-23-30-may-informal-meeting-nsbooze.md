@@ -8,7 +8,7 @@ excerpt: |
 layout: post
 permalink: /2012/05/30-may-informal-meeting-nsbooze/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

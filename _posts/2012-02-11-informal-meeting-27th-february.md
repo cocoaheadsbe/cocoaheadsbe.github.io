@@ -4,7 +4,7 @@ author: Jelle De Laender
 layout: post
 permalink: /2012/02/informal-meeting-27th-february/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/02/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/02/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

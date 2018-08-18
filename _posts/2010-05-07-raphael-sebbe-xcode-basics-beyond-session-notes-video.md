@@ -5,7 +5,7 @@ excerpt: 'During the April 2010 meeting, Raphael Sebbe from Creaceed gave a pres
 layout: post
 permalink: /2010/05/raphael-sebbe-xcode-basics-beyond-session-notes-video/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

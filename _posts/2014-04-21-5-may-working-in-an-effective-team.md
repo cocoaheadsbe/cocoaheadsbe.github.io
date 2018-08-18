@@ -5,7 +5,7 @@ excerpt: Mike Seghers (iDA MediaFoundry) will give a talk about working in an ef
 layout: post
 permalink: /2014/04/5-may-working-in-an-effective-team/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

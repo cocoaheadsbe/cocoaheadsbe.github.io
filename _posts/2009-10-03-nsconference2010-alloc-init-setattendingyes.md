@@ -6,7 +6,7 @@ excerpt: |
 layout: post
 permalink: /2009/10/nsconference2010-alloc-init-setattendingyes/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/10/NSConference2010.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/10/NSConference2010.png
 categories:
   - Information
 tags:
@@ -40,7 +40,7 @@ The list of confirmed speakers is already impressive and apparently they still n
 
 And if 3 days isn&#8217;t enough, this year they have even added a fourth day, specially targeted at iPhone Developers. If iPhone development is your thing, then you&#8217;ll surely find something interesting in one of the 5 sessions from some of the worlds top iPhone developers.
 
-Well, that was more than enough to get me convinced (and I noticed someone else from the CocoaHeads Belgium community already booked his tickets as well). If anyone from our community is interested in going as well, hurry up and book your tickets, and let us know here if you&#8217;re going. It would be great if we could have a small meet-up there as well <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Well, that was more than enough to get me convinced (and I noticed someone else from the CocoaHeads Belgium community already booked his tickets as well). If anyone from our community is interested in going as well, hurry up and book your tickets, and let us know here if you&#8217;re going. It would be great if we could have a small meet-up there as well <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 More information of course can be found on the [NSConference 2010][2] website.
 

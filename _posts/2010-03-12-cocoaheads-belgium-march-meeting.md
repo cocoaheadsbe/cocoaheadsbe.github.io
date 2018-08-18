@@ -5,7 +5,7 @@ excerpt: 'The March 2010 meeting will take place on the 22nd of March in Diestse
 layout: post
 permalink: /2010/03/cocoaheads-belgium-march-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

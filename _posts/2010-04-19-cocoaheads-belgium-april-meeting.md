@@ -4,7 +4,7 @@ author: Stefaan Lesage
 layout: post
 permalink: /2010/04/cocoaheads-belgium-april-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

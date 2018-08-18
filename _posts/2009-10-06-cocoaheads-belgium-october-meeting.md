@@ -5,7 +5,7 @@ excerpt: "Plans are being made for the first 'Real' CocoaHeads Belgium meeting i
 layout: post
 permalink: /2009/10/cocoaheads-belgium-october-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:
@@ -32,7 +32,7 @@ Regards,
 
 Stefaan
 
- [1]: http://cocoaheads.be/wordpress/2009/09/cocoaheads-belgium-founding-meeting-notes/
+ [1]: https://cocoaheads.be/wordpress/2009/09/cocoaheads-belgium-founding-meeting-notes/
  [2]: http://www.ibbt.be/
  [3]: http://doodle.com/participation.html?pollId=keachv25w8nckr2v
  [4]: http://groups.google.com/group/cocoaheadsbe

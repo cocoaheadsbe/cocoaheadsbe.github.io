@@ -5,7 +5,7 @@ excerpt: "For those of you who didn't know it ... a few weeks ago I went to the 
 layout: post
 permalink: /2010/11/how-to-use-a-custom-background-image-in-your-grouped-uitableview/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Logo_Without_Name.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/12/Logo_Without_Name.png
 categories:
   - Information
   - Resources
@@ -26,7 +26,7 @@ tags:
 This is a repost of my [original article][1] which I posted on my own website. But since it is related to iOS development, I thought it might be interesting for the Cocoaheads Belgium folks as well.
 
 <div id="attachment_473" style="width: 210px" class="wp-caption alignright">
-  <a href="http://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Default_Grouped_TableView.png"><img src="http://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Default_Grouped_TableView-200x300.png" alt="The default grouped UITableView" title="Default_Grouped_TableView" width="200" height="300" class="size-medium wp-image-473" /></a>
+  <a href="https://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Default_Grouped_TableView.png"><img src="https://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Default_Grouped_TableView-200x300.png" alt="The default grouped UITableView" title="Default_Grouped_TableView" width="200" height="300" class="size-medium wp-image-473" /></a>
   
   <p class="wp-caption-text">
     The default grouped UITableView
@@ -72,7 +72,7 @@ Once you added the resources to your project, you can simply start using them as
 #### Feedback
 
 <div id="attachment_474" style="width: 231px" class="wp-caption alignright">
-  <a href="http://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Result.png"><img src="http://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Result-221x300.png" alt="I ended up with this Bakcground and Color Scheme" title="Result" width="221" height="300" class="size-medium wp-image-474" /></a>
+  <a href="https://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Result.png"><img src="https://cocoaheads.be/wordpress/wp-content/uploads/2010/11/Result-221x300.png" alt="I ended up with this Bakcground and Color Scheme" title="Result" width="221" height="300" class="size-medium wp-image-474" /></a>
   
   <p class="wp-caption-text">
     I ended up with this Bakcground and Color Scheme

@@ -5,7 +5,7 @@ excerpt: "A while back, I was looking for some Icons I could use in a TabBar and
 layout: post
 permalink: /2009/09/free-and-paid-iphone-tabbar-and-toolbar-icons/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/Glyphish.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/Glyphish.png
 categories:
   - Resources
 tags:

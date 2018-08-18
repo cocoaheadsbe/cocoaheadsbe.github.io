@@ -5,7 +5,7 @@ excerpt: "Finally found some time to process the video from last mont's session 
 layout: post
 permalink: /2010/11/video-automated-testing-in-an-ios-world/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:
@@ -45,7 +45,7 @@ Well, since we should have had this months meeting yesterday &#8230; we will be 
 
 #### Final Note
 
-If anyone thinks he can help us out with one of the ideas mentioned in this topic, please do contact us. If you still have more ideas &#8230; well contact us as well., or even better &#8230; start organizing <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+If anyone thinks he can help us out with one of the ideas mentioned in this topic, please do contact us. If you still have more ideas &#8230; well contact us as well., or even better &#8230; start organizing <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Regards,
 

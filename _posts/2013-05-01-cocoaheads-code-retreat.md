@@ -4,7 +4,7 @@ author: Spencer
 layout: post
 permalink: /2013/05/cocoaheads-code-retreat/
 wppt_preset3:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/wp-post-thumbnail/http://cocoaheads.be/wordpress/wp-content/uploads/2013/05/nerd-kid2-vElV2r.jpg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/wp-post-thumbnail/https://cocoaheads.be/wordpress/wp-content/uploads/2013/05/nerd-kid2-vElV2r.jpg
 categories:
   - Information
 ---

@@ -5,7 +5,7 @@ excerpt: "Most of us will probably be back from our vacation, so it's time to me
 layout: post
 permalink: /2010/08/cocoaheads-belgium-august-meeting-git-svn-mercurial-and-others/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

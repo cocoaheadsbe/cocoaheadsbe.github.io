@@ -5,7 +5,7 @@ excerpt: 'Well, the socializing at the bar lasted for a while, so some of us wou
 layout: post
 permalink: /2010/02/nsconference-2010-day-2/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference-146-1.jpg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference-146-1.jpg
 categories:
   - Information
 tags:
@@ -27,7 +27,7 @@ tags:
 ---
 ### Cocoa Design Patterns that Leverage the Objective-C Runtime &#8211; Jeff LaMarche
 
-[Jeff LaMarche][1] opened the second day, since Matt Gemmell was sick and had to return home. Jeff talked about some main differences in Objective-C and the possibilities of the Runtime. At some point he even mentioned to step away from Copy & Paste, something I&#8217;ve been telling Delphi developers for a few years by now <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+[Jeff LaMarche][1] opened the second day, since Matt Gemmell was sick and had to return home. Jeff talked about some main differences in Objective-C and the possibilities of the Runtime. At some point he even mentioned to step away from Copy & Paste, something I&#8217;ve been telling Delphi developers for a few years by now <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Additionally Jeff gave us some examples of things you can actually do with the runtime like determining the properties, instance methods, class methods and much more while your application is running. If I have to compare it to the good old Delphi, I would think of it of the Delphi RTTI on steroids. He did warn us though that using the Runtime you could get access to stuff Apple doesn&#8217;t want you to see or touch. In case of iPhone programming this could lead to your application being rejected on the AppStore.
 
@@ -47,7 +47,7 @@ Next up was [Graham Lee][4] with a brief session on Code Signing. The goal is to
 
 ### The Many Faces of Data Persistence &#8211; Aaron Hillegass
 
-Many Cocoa developers have heard about [The Big Nerd Ranch][5], and if you didn&#8217;t you have probably read the book Cocoa Programming for Mac OS X by [Aaron Hillegass][6] (see our [review of the book][7]), and if you didn&#8217;t I suggest you go read the book ASAP <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Many Cocoa developers have heard about [The Big Nerd Ranch][5], and if you didn&#8217;t you have probably read the book Cocoa Programming for Mac OS X by [Aaron Hillegass][6] (see our [review of the book][7]), and if you didn&#8217;t I suggest you go read the book ASAP <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Aaron gave a talk about Data Persistence, and repeated that everything is moving to the cloud pretty fast. The concept of Files is dead, Long Live the Cache ! In order for our data to live on the cloud, we will need some way to synchronize that data to our local machines. The session wen through many aspects of storing your data and finally ended with Core Data.
 
@@ -76,5 +76,5 @@ Well, the day ended like the previous one. Plenty of us ended up in the bar gett
  [4]: http://twitter.com/iamleeg
  [5]: http://www.bignerdranch.com/
  [6]: http://twitter.com/AaronHillegass
- [7]: http://cocoaheads.be/wordpress/2009/11/cocoa-programming-for-mac-os-x-by-aaron-hillegass/
+ [7]: https://cocoaheads.be/wordpress/2009/11/cocoa-programming-for-mac-os-x-by-aaron-hillegass/
  [8]: http://github.com/hillegass/BNRPersistence

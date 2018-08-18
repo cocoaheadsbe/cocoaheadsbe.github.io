@@ -5,7 +5,7 @@ excerpt: 'The February meeting will take place on monday the 22nd of February at
 layout: post
 permalink: /2010/02/cocoaheads-belgium-february-meeting/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 ---

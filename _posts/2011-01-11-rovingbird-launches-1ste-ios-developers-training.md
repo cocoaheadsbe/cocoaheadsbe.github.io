@@ -5,7 +5,7 @@ excerpt: 'Beginning iPhone & iPad development 23, 24 & 25 february 2011. Starter
 layout: post
 permalink: /2011/01/rovingbird-launches-1ste-ios-developers-training/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2011/01/RovingBird.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2011/01/RovingBird.png
 categories:
   - Information
   - iOS Development

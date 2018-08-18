@@ -5,7 +5,7 @@ excerpt: Want to get in touch with CocoaHeads Belgium enthousiasts on Twitter ? 
 layout: post
 permalink: /2009/09/cocoaheads-belgium-enthousiasts-on-twitter/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/09/CocoaheadsBE.png
 categories:
   - Information
 tags:

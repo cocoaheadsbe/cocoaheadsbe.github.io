@@ -6,7 +6,7 @@ excerpt: "Slides - Introducing PanelKit"
 layout: post
 permalink: /2017/04/panelkit-slides/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Slides
 ---

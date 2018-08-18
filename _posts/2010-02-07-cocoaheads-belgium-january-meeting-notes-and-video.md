@@ -5,7 +5,7 @@ excerpt: 'A new year, and a new CocoaHeads Belgium meeting.  I think approximate
 layout: post
 permalink: /2010/02/cocoaheads-belgium-january-meeting-notes-and-video/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/02/CoreImage.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/02/CoreImage.png
 categories:
   - Information
 tags:

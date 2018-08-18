@@ -5,7 +5,7 @@ excerpt: 'After the workshop and some socializing in the bar, the conference rea
 layout: post
 permalink: /2010/02/nsconference-2010-day-1/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference_UK-035_small.jpg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference_UK-035_small.jpg
 categories:
   - Information
 tags:
@@ -29,7 +29,7 @@ The day started with the opening keynote by [Mike Lee][1] which was called &#822
 
 ### Spelunking OS X &#8211; Jonathan &#8220;Wolf&#8221; Rentzsch
 
-Well, I complained about the previous session not being to technical enough, but this time technical was an understatement <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 
+Well, I complained about the previous session not being to technical enough, but this time technical was an understatement <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 
 
 I met [Jonathan][2] the day before in the dining room but I had no idea back then who I was talking to. I was quite impressed with the plethora of debugging tools, het editors and ways to inject your own code at runtime he presented during his session.
 

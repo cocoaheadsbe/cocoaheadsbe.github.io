@@ -5,7 +5,7 @@ excerpt: Werner Ramaekers and Jan Sabbe will give us an introduction of Reactive
 layout: post
 permalink: /2014/02/12-march-intro-to-reactivecocoa/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

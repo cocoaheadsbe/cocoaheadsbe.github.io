@@ -5,7 +5,7 @@ excerpt: 'This is the first in a series of book reviews on Mac / iPhone Programm
 layout: post
 permalink: /2009/11/cocoa-programming-for-mac-os-x-by-aaron-hillegass/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2009/11/CocoaBookCover.jpeg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2009/11/CocoaBookCover.jpeg
 categories:
   - Book Reviews
   - Reviews

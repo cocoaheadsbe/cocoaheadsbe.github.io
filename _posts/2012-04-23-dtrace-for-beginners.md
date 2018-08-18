@@ -5,7 +5,7 @@ excerpt: "Koen Van Nieuwenhove (@CocoaCrumbs) will show us the basics of DTrace,
 layout: post
 permalink: /2012/04/dtrace-for-beginners/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2012/04/100cocoaheads-logo-web.png
 categories:
   - Information
 ---

@@ -5,7 +5,7 @@ excerpt: When you want to learn developing applications for the iPhone, you have
 layout: post
 permalink: /2010/09/book-review-iphone-sdk-development/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/09/PragProg_iPhoneSDKDev.png
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/09/PragProg_iPhoneSDKDev.png
 categories:
   - Book Reviews
   - Information

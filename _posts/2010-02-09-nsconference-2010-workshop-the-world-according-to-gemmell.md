@@ -5,7 +5,7 @@ excerpt: "As a few of you already know, last week wan NSConference 2010 in Readi
 layout: post
 permalink: /2010/02/nsconference-2010-workshop-the-world-according-to-gemmell/
 thumb:
-  - http://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference_UK-045.jpg
+  - https://cocoaheads.be/wordpress/wp-content/uploads/2010/02/NSConference_UK-045.jpg
 categories:
   - Information
 tags:
@@ -26,7 +26,7 @@ The day before the actual workshop I met up with a few attendees in the dining r
 
 ### The Workshop
 
-I was really looking forward to the World According to Gemmell workshop but the one an only [Matt &#8220;The Legend&#8221; Gemmell][4]. Heard so many great things about him and even delved in the [MGTwitterEngine code][5] just to see if I would understand it <img src="http://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+I was really looking forward to the World According to Gemmell workshop but the one an only [Matt &#8220;The Legend&#8221; Gemmell][4]. Heard so many great things about him and even delved in the [MGTwitterEngine code][5] just to see if I would understand it <img src="https://cocoaheads.be/wordpress/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 A few days before NSConference [Matt][6] sent out an email to all attendees asking us if we had any questions or topics we wanted to see covered in his workshop. And this is actually what made the workshop so great. Quite a few attendees sent in many different topics like how to get a more Mac Like GUI in cross-platform applications, how your application should evolve in the future or even how to handle / present specific information to the user.
 
